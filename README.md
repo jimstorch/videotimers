@@ -16,9 +16,9 @@ What they look like:
 
 100 minutes https://youtu.be/9g_PiYHDWH4
 
-The font is White Rabbit by Matthew Welch, Copyright 1999 with generous usage rights (thanks Matthew);
-http://www.squaregear.net/fonts/
-Please see white_rabbit.zip in the /fonts folder for details.
+The font is White Rabbit, Copyright 1999 by Matthew Welch with generous usage rights (thanks Matthew). Details can be found in white_rabbit.zip in the /fonts folder.
+
+See his page at http://www.squaregear.net/fonts/
 
 I had issues with other monospace fonts *bouncing* when drawing some glyphs.  If anyone knows a fix for this I would appreciate it.
 
