@@ -6,7 +6,9 @@ I figured out to make them using just ffmpeg.
 
 There are three shell scripts for Unix-like systems to create short 'count-up' video clips with 1/10th of second precision at 60fps.
 Again, you will need to have ffmpeg installed for them to work.  The included scripts create 0.0 to 9.9 seconds, 00.0 to 99.9 seconds,
-and 00:00.0 to 99:59.9 minute clips.  
+and 00:00.0 to 99:59.9 minute clips.
+
+What they look like:
 
 10 seconds https://youtu.be/2_15k00zL80
 
